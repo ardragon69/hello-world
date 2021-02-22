@@ -1,2 +1,2 @@
-# hellow-word
+# test-repo
 Just another repository
